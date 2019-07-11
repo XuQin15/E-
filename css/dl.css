@@ -1,0 +1,97 @@
+/*登录页面代码*/
+.dlym{
+	width: 100%;
+	height: 100%;
+	background:url(../photo/111.png);
+	/*background-color: grey;*/
+	position: fixed;
+}
+.sk1{
+	width: 423px;
+	height: 380px;
+	border: 1px solid white;
+	border-radius: 15px;
+	background-color: #FFFFFF;
+	margin-left: 500px;
+	margin-top: 150px;
+	
+}
+.sd1{
+	float: left;
+	margin-left: 55px;
+	margin-top: 40px;
+}
+.sd2{
+	float: left;
+	margin-left: 15px;
+}
+.sd1 span:first-of-type~span{
+	padding-left: 40px;		
+}
+.r1{
+	float: left;
+	font-size: 16px;
+	color: #333333;
+}
+.r2{
+	color: #f03e3e;
+	font-size: 16px;
+	
+}
+.sk1 li{
+	list-style: none;
+	padding-top: 20px;
+}
+.sk1 input{
+	width: 313px;
+	height: 40px;	
+	border-radius:10px;
+}
+
+.j1 input{
+	background: url(../photo/pic-1.gif)no-repeat;
+	background-position: left;
+}
+.j2 input{
+	background: url(../photo/pic-2.gif)no-repeat left;
+}
+.j2 img{
+	padding-left: 54px;
+}
+.j2 a{
+	text-decoration: none;
+	font-size: 12px;
+	margin-left: -70px;
+	color: #999999;
+}
+.j2 a:hover{
+	text-decoration: underline;
+}
+.j3 input{
+	width: 313px;
+	height: 40px;	
+	border-radius:10px;
+	background-color: #999999;
+	border: 1px solid #999999;
+	color: white;
+	cursor: pointer;
+}
+/*sda*/
+.tz{
+	float: left;
+	margin-top: 45px;
+	margin-left: 55px;
+}
+.wz{
+	float: right;
+	margin-left: 70px;
+	margin-top: 5px;
+}
+.wz a{
+	text-decoration: none;
+	font-size:13px ;
+	color: #5b5b5b;
+}
+.wz a:nth-of-type(2){
+	color: #99999c;
+}
